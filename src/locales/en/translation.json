@@ -1,0 +1,88 @@
+{
+  "header": {
+    "title": "Association Internationale de Projets Pacifiques",
+    "home": "Home",
+    "about": "About Us",
+    "projects": "Initiatives",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "PRESERVING PARADISE, EMPOWERING COMMUNITIES",
+    "description": "Strengthening the vibrant communities of French Polynesia through sustainable initiatives, cultural preservation, and youth empowerment. Join our mission to protect our lagoon heritage and foster intergenerational connection.",
+    "cta": "Discover Our Mission"
+  },
+  "about": {
+    "title": "ROOTED IN TRADITION, LOOKING TO THE FUTURE",
+    "description": "The Association Internationale de Projets Pacifiques (AIPP) bridges the gap between international expertise and local Polynesian wisdom. We are dedicated to supporting sustainable development across the islands, ensuring that progress honors our ancestors and protects our unique environment.",
+    "impact_title": "ISLANDS UNITED FOR A SUSTAINABLE FUTURE",
+    "stat1_title": "Environmental Stewardship",
+    "stat1_desc": "Protecting our crystal-clear lagoons and lush landscapes through community-led conservation efforts.",
+    "stat2_title": "Cultural Renaissance",
+    "stat2_desc": "Revitalizing traditional arts, crafts, and navigation skills to ensure they thrive for generations to come.",
+    "stat3_title": "Youth Empowerment",
+    "stat3_desc": "Creating pathways for young Polynesians in eco-tourism and sustainable industries, keeping talent in the islands."
+  },
+  "initiatives": {
+    "title": "Our Initiatives",
+    "cta_read_more": "Learn More",
+    "items": {
+      "1": {
+        "title": "Coral Reef Restoration",
+        "description": "Regenerating our vital marine ecosystems through community-driven coral planting and monitoring programs.",
+        "fullDescription": "Our Coral Reef Restoration project brings together marine biologists and local fishermen to restore damaged reef systems. Using resilient coral species, we are replanting nurseries in the lagoons of Moorea and Bora Bora. This initiative not only protects marine biodiversity but also secures the livelihoods of coastal communities dependent on healthy fish stocks."
+      },
+      "2": {
+        "title": "Traditional Polynesian Arts",
+        "description": "Preserving the sacred knowledge of wood carving, weaving, and tapa making through master-apprentice workshops.",
+        "fullDescription": "The 'Mana of the Hands' program connects master artisans (Tuhuna) with the younger generation. Workshops cover traditional wood carving, pandanus weaving, and the intricate art of Tapa cloth making. By documenting these oral traditions and techniques, we ensure the cultural identity of French Polynesia remains vibrant and living."
+      },
+      "3": {
+        "title": "Youth Eco-Tourism",
+        "description": "Training the next generation of guides and entrepreneurs in sustainable, culturally respectful tourism practices.",
+        "fullDescription": "We empower young Polynesians to become ambassadors of their own islands. This vocational training program focuses on sustainable eco-tourism, language skills, and cultural history. Graduates are equipped to launch small businesses or lead tours that respect the environment and offer authentic experiences to visitors, keeping economic benefits local."
+      }
+    }
+  },
+  "gallery": {
+    "title": "Gallery of Our Impact",
+    "items": {
+      "connessioni2025": {
+        "title": "Pacific Connections 2025 - Tahiti",
+        "description": "In late 2025, AIPP hosted the 'Pacific Connections' forum in Papeete. The event gathered leaders from across the Polynesian Triangle to discuss shared challenges in climate resilience and cultural preservation. Workshops focused on integrating traditional navigational knowledge with modern climate science."
+      }
+    }
+  },
+  "contact": {
+    "title": "JOIN OUR VOYAGE",
+    "subtitle": "Become a guardian of our islands.",
+    "description": "Whether you want to volunteer for reef restoration, support our cultural programs, or partner with us, we want to hear from you. Mauruuru roa for your support.",
+    "name_label": "FULL NAME",
+    "name_placeholder": "Ari'i Teva",
+    "email_label": "EMAIL",
+    "email_placeholder": "arii@example.pf",
+    "message_label": "MESSAGE",
+    "message_placeholder": "How would you like to contribute?",
+    "submit": "SEND MESSAGE",
+    "errors": {
+      "required": "This field is required",
+      "max_length": "Max length is {{count}} characters",
+      "invalid_email": "Invalid email address"
+    }
+  },
+  "footer": {
+    "description": "Weaving together tradition and innovation for a sustainable French Polynesia.",
+    "links_title": "Navigate",
+    "contact_title": "Contact Us",
+    "info_title": "Information",
+    "eu_funding": "Supported by international grants for Pacific development. The views expressed here are those of AIPP.",
+    "privacy_policy": "Privacy Policy",
+    "terms_of_use": "Terms of Use",
+    "privacy_modal_title": "Privacy Policy",
+    "privacy_modal_text1": "We respect your privacy. This website <strong>does not use cookies</strong>.",
+    "privacy_modal_text2": "We do not track you. Enjoy the islands digitally without footprints.",
+    "terms_modal_title": "Terms of Use",
+    "terms_modal_text": "By using this site, you agree to respect the cultural and intellectual property presented here.",
+    "rights_reserved": "All rights reserved.",
+    "made_with_love": "Made with aloha & love"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "header": {
+    "title": "Association Internationale de Projets Pacifiques",
+    "home": "Accueil",
+    "about": "À propos",
+    "projects": "Initiatives",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "PRÉSERVER LE PARADIS, AUTONOMISER LES COMMUNAUTÉS",
+    "description": "Renforcer les communautés dynamiques de la Polynésie française grâce à des initiatives durables, la préservation culturelle et l'autonomisation des jeunes. Rejoignez notre mission pour protéger notre patrimoine lagunaire et favoriser le lien intergénérationnel.",
+    "cta": "Découvrir notre mission"
+  },
+  "about": {
+    "title": "ANCRÉ DANS LA TRADITION, TOURNÉ VERS L'AVENIR",
+    "description": "L'Association Internationale de Projets Pacifiques (AIPP) fait le lien entre l'expertise internationale et la sagesse locale polynésienne. Nous nous engageons à soutenir le développement durable à travers les archipels, en veillant à ce que le progrès honore nos ancêtres et protège notre environnement unique.",
+    "impact_title": "DES ÎLES UNIES POUR UN AVENIR DURABLE",
+    "stat1_title": "Intendance Environnementale",
+    "stat1_desc": "Protéger nos lagons cristallins et nos paysages luxuriants grâce à des efforts de conservation menés par la communauté.",
+    "stat2_title": "Renaissance Culturelle",
+    "stat2_desc": "Revitaliser les arts traditionnels, l'artisanat et les compétences de navigation pour qu'ils prospèrent pour les générations à venir.",
+    "stat3_title": "Autonomisation des Jeunes",
+    "stat3_desc": "Créer des opportunités pour les jeunes Polynésiens dans l'écotourisme et les industries durables, en gardant les talents dans les îles."
+  },
+  "initiatives": {
+    "title": "Nos Initiatives",
+    "cta_read_more": "En savoir plus",
+    "items": {
+      "1": {
+        "title": "Restauration des Récifs Coralliens",
+        "description": "Régénérer nos écosystèmes marins vitaux grâce à des programmes communautaires de plantation et de surveillance des coraux.",
+        "fullDescription": "Notre projet de restauration des récifs coralliens rassemble des biologistes marins et des pêcheurs locaux pour restaurer les systèmes récifaux endommagés. En utilisant des espèces de coraux résilientes, nous replantons des pépinières dans les lagons de Moorea et de Bora Bora. Cette initiative protège non seulement la biodiversité marine, mais assure également la subsistance des communautés côtières dépendantes de stocks de poissons sains."
+      },
+      "2": {
+        "title": "Arts Traditionnels Polynésiens",
+        "description": "Préserver le savoir sacré de la sculpture sur bois, du tissage et de la fabrication du tapa grâce à des ateliers maître-apprenti.",
+        "fullDescription": "Le programme 'Mana des Mains' met en relation des maîtres artisans (Tuhuna) avec la jeune génération. Les ateliers couvrent la sculpture traditionnelle sur bois, le tissage du pandanus et l'art complexe de la fabrication du tissu Tapa. En documentant ces traditions orales et ces techniques, nous nous assurons que l'identité culturelle de la Polynésie française reste vibrante et vivante."
+      },
+      "3": {
+        "title": "Écotourisme pour les Jeunes",
+        "description": "Former la prochaine génération de guides et d'entrepreneurs aux pratiques touristiques durables et respectueuses de la culture.",
+        "fullDescription": "Nous donnons aux jeunes Polynésiens les moyens de devenir les ambassadeurs de leurs propres îles. Ce programme de formation professionnelle se concentre sur l'écotourisme durable, les compétences linguistiques et l'histoire culturelle. Les diplômés sont équipés pour lancer de petites entreprises ou diriger des visites qui respectent l'environnement et offrent des expériences authentiques aux visiteurs, en gardant les retombées économiques locales."
+      }
+    }
+  },
+  "gallery": {
+    "title": "Galerie de Notre Impact",
+    "items": {
+      "connessioni2025": {
+        "title": "Connexions Pacifique 2025 - Tahiti",
+        "description": "Fin 2025, l'AIPP a accueilli le forum 'Connexions Pacifique' à Papeete. L'événement a rassemblé des dirigeants de tout le Triangle polynésien pour discuter des défis communs en matière de résilience climatique et de préservation culturelle. Les ateliers se sont concentrés sur l'intégration des connaissances traditionnelles de navigation avec la science climatique moderne."
+      }
+    }
+  },
+  "contact": {
+    "title": "REJOIGNEZ NOTRE VOYAGE",
+    "subtitle": "Devenez un gardien de nos îles.",
+    "description": "Que vous souhaitiez faire du bénévolat pour la restauration des récifs, soutenir nos programmes culturels ou vous associer à nous, nous voulons vous entendre. Mauruuru roa pour votre soutien.",
+    "name_label": "NOM COMPLET",
+    "name_placeholder": "Ari'i Teva",
+    "email_label": "EMAIL",
+    "email_placeholder": "arii@example.pf",
+    "message_label": "MESSAGE",
+    "message_placeholder": "Comment souhaitez-vous contribuer ?",
+    "submit": "ENVOYER LE MESSAGE",
+    "errors": {
+      "required": "Ce champ est obligatoire",
+      "max_length": "La longueur maximale est de {{count}} caractères",
+      "invalid_email": "Adresse email invalide"
+    }
+  },
+  "footer": {
+    "description": "Tisser ensemble tradition et innovation pour une Polynésie française durable.",
+    "links_title": "Naviguer",
+    "contact_title": "Contactez-nous",
+    "info_title": "Information",
+    "eu_funding": "Soutenu par des subventions internationales pour le développement du Pacifique. Les opinions exprimées ici sont celles de l'AIPP.",
+    "privacy_policy": "Politique de confidentialité",
+    "terms_of_use": "Conditions d'utilisation",
+    "privacy_modal_title": "Politique de confidentialité",
+    "privacy_modal_text1": "Nous respectons votre vie privée. Ce site web <strong>n'utilise pas de cookies</strong>.",
+    "privacy_modal_text2": "Nous ne vous suivons pas. Profitez des îles numériquement sans laisser de traces.",
+    "terms_modal_title": "Conditions d'utilisation",
+    "terms_modal_text": "En utilisant ce site, vous acceptez de respecter la propriété culturelle et intellectuelle présentée ici.",
+    "rights_reserved": "Tous droits réservés.",
+    "made_with_love": "Fait avec aloha & amour"
+  }
+}
