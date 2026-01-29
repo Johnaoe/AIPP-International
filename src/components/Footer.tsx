@@ -89,8 +89,8 @@ const Footer: React.FC = () => {
             <ul className="flex flex-col gap-4 text-gray-600 text-sm">
               <li className="flex items-start gap-3">
                 <Mail className="w-5 h-5 text-primary shrink-0 mt-0.5" />
-                <a href="mailto:info@tarptautiniaiprojektai.lt" className="hover:text-primary transition-colors">
-                  info@tarptautiniaiprojektai.lt
+                <a href="mailto:projets.pacifiques@outlook.com" className="hover:text-primary transition-colors">
+                  projets.pacifiques@outlook.com
                 </a>
               </li>
               <li className="flex items-start gap-3">
