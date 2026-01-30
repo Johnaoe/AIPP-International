@@ -100,7 +100,7 @@ const Footer: React.FC = () => {
             </ul>
           </div>
 
-          {/* Legal / Funding */}
+          {/* Legal / Funding s*/}
           <div>
             <h3 className="font-bold text-gray-900 mb-6 text-lg">{t('footer.info_title')}</h3>
             <p className="text-gray-500 text-sm mb-6 leading-relaxed">
